@@ -11,4 +11,8 @@ public class B extends A {
     public void bb() {
         System.out.println(42);
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
