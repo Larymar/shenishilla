@@ -19,4 +19,8 @@ public class J implements C {
     public Object pp() {
         return this;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
