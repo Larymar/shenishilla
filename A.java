@@ -19,4 +19,20 @@ public class A implements C {
     public Object pp() {
         return this;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
