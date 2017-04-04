@@ -15,4 +15,8 @@ public class B extends A {
     public void ab() {
         System.out.println("\n");
     }
+
+    public long ac() {
+        return 333;
+    }
 }
