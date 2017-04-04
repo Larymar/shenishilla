@@ -19,8 +19,4 @@ public class A implements C {
     public Object pp() {
         return this;
     }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
-    }
 }
