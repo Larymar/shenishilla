@@ -19,4 +19,8 @@ public class B extends A {
     public long ac() {
         return 333;
     }
+
+    public double ad() {
+        return 12.12;
+    }
 }

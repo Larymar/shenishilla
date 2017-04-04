@@ -27,4 +27,8 @@ public class A implements C {
     public long ac() {
         return 333;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
