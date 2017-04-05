@@ -23,4 +23,8 @@ public class B extends A {
     public double ad() {
         return 12.12;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
