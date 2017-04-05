@@ -20,6 +20,7 @@ public class A extends null implements C {
         return this;
     }
 
+<<<<<<< HEAD
     public String kk() {
         return "Hello world";
     }
@@ -27,6 +28,7 @@ public class A extends null implements C {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
 
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
@@ -36,6 +38,8 @@ public class A extends null implements C {
         return 333;
     }
 
+
+
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
@@ -43,6 +47,18 @@ public class A extends null implements C {
     public Object rr() {
         return null;
     }
+
+
+    public int af() {
+        return -1;
+    }
+
+    public int ae() {
+
+        return java.lang.Math.abs(-6);
+
+    }
+
 
     public void aa() {
         System.out.println("void aa");
@@ -56,6 +72,7 @@ public class A extends null implements C {
         return new java.util.Random().nextInt();
     }
 
+
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
@@ -64,9 +81,11 @@ public class A extends null implements C {
         return 8;
     }
 
+
     public long dd() {
         return 99999;
     }
+
 
     public int af() {
         return -1;
@@ -83,4 +102,5 @@ public class A extends null implements C {
     public void ab() {
         System.out.println();
     }
+
 }

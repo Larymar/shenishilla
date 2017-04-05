@@ -12,6 +12,7 @@ public class B extends A {
         System.out.println(42);
     }
 
+
     public long ac() {
         return 333;
     }
@@ -28,9 +29,11 @@ public class B extends A {
         System.out.println("\n");
     }
 
+
     public float ff() {
         return 3.14;
     }
+
 
     public int cc() {
         return 13;
@@ -62,5 +65,6 @@ public class B extends A {
 
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+
     }
 }
