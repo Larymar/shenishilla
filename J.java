@@ -35,4 +35,8 @@ public class J implements C {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
