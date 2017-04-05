@@ -1,4 +1,4 @@
-public class J implements C {
+public class J extends null implements C {
 
     private byte k = 1;
 
@@ -20,12 +20,20 @@ public class J implements C {
         return this;
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
-
     public double ad() {
         return 11;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
     }
 
     public int[] ii() {
@@ -34,5 +42,37 @@ public class J implements C {
 
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public byte oo() {
+        return 4;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public long ac() {
+        return 222;
     }
 }
