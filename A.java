@@ -45,7 +45,9 @@ public class A extends null implements C {
     }
 
     public int ae() {
+
         return java.lang.Math.abs(-6);
+
     }
 
     public void aa() {
@@ -67,4 +69,5 @@ public class A extends null implements C {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
 }
