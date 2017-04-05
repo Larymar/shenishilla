@@ -12,6 +12,10 @@ public class B extends A {
         System.out.println(42);
     }
 
+    public int cc() {
+        return 39;
+    }
+
     public void ab() {
         System.out.println("\n");
     }
@@ -28,7 +32,19 @@ public class B extends A {
         return 3.14;
     }
 
-    public int cc() {
-        return 13;
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public byte oo() {
+        return 4;
     }
 }
