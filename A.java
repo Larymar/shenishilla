@@ -1,4 +1,4 @@
-public class A implements C {
+public class A extends null implements C {
 
     private long f = 4321;
 
@@ -38,5 +38,33 @@ public class A implements C {
 
     public Object rr() {
         return null;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 }
