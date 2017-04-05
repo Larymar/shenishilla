@@ -31,4 +31,8 @@ public class A implements C {
     public String kk() {
         return "No";
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
