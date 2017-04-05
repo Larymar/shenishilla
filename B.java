@@ -27,4 +27,8 @@ public class B extends A {
     public float ff() {
         return 3.14;
     }
+
+    public int cc() {
+        return 13;
+    }
 }
